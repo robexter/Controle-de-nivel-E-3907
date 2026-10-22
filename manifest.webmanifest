@@ -1,0 +1,13 @@
+{
+ "id":"./",
+ "name":"E-3907 — Controle de Nível Concept V2",
+ "short_name":"E3907 Concept",
+ "description":"Treinamento técnico e simulação interativa da malha E-3907, FIC-730, FY-713 e tambor U-35.",
+ "lang":"pt-BR",
+ "start_url":"./index.html",
+ "scope":"./",
+ "display":"standalone",
+ "background_color":"#081324",
+ "theme_color":"#0b1630",
+ "icons":[{"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]
+}
